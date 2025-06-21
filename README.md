@@ -46,7 +46,7 @@ Este repositorio sirve como muestra técnica y visual del proyecto, ideal para c
 
 📚 Puedes consultar el documento original completo en formato PDF aquí:
 
-👉 [**Ver documentación técnica RaspiVault**](docs/RaspiVault_documentacion.pdf)
+👉 [**Ver documentación técnica RaspiVault**](docs/Memoria.Proyecto.Final.ASIR.IGNASI.RODRIGO.CERVERA.pdf)
 
 Incluye:
 - Introducción y objetivos
@@ -81,8 +81,7 @@ Estoy abierto a colaborar con personas que quieran **recrear o mejorar el proyec
 
 ## 📬 Contacto
 
-👨‍💻 Autor: [Tu Nombre]  
-📧 Email: [tucorreo@ejemplo.com]  
+👨‍💻 Autor: Natxo Rodrigo  
 🔗 [LinkedIn](https://linkedin.com/in/natrodric) 
 ---
 
