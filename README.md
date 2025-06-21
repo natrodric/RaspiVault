@@ -64,7 +64,6 @@ Incluye:
 - 🍓 **Raspberry Pi OS**
 - 🔐 **Google Authenticator** (TOTP)
 - ⌨️ **Teclado físico / keypad**
-- 🔌 **Electrónica básica (relé, LEDs)**
 - 📶 **Diseño de red IP y subredes**
 - 📝 Documentación con **LibreOffice Writer**
 
